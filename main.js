@@ -65,7 +65,7 @@ KeyboardController(
     	if (cube_y == (canvas.height - 20))
 	    	cube_dy = -11;
     },
-}, 8);
+}, 10);
 
 function drawCube()
 {
